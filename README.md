@@ -1,8 +1,8 @@
 # Pooja Barot — Marketing Portfolio
 
-Marketing-focused version of Pooja Barot's portfolio: growth marketing, demand generation, and marketing analytics. Every page leads with marketing results; the general version lives in the `pooja-portfolio` repo.
+Marketing-focused version of Pooja Barot's portfolio: growth marketing, demand generation, and marketing analytics. Every page leads with marketing results; the general version lives in the `poojadbarot.github.io` repo.
 
-**Live site:** https://barotpooh.github.io/pooja-portfolio-marketing/
+**Live site:** https://poojadbarot.github.io/pooja-portfolio-marketing/
 
 ## Pages
 
